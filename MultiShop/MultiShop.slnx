@@ -5,6 +5,7 @@
   <Folder Name="/Requirements/">
     <File Path="IdentityServerVersionErrorSolution.txt" />
     <File Path="PortainerCmd.txt" />
+    <File Path="PortNumbers.txt" />
   </Folder>
   <Folder Name="/Services/" />
   <Folder Name="/Services/Catalog/">
