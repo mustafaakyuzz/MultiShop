@@ -8,6 +8,13 @@
     <File Path="PortNumbers.txt" />
   </Folder>
   <Folder Name="/Services/" />
+  <Folder Name="/Services/Cargo/">
+    <Project Path="Services/Cargo/MultiShop.Cargo.BusinessLayer/MultiShop.Cargo.BusinessLayer.csproj" Id="cbba4b2d-2c85-49af-93d5-00f555b7b057" />
+    <Project Path="Services/Cargo/MultiShop.Cargo.DataAccessLayer/MultiShop.Cargo.DataAccessLayer.csproj" Id="5c0030a1-8b52-4037-b0e6-dbea67f3c4c7" />
+    <Project Path="Services/Cargo/MultiShop.Cargo.DtoLayer/MultiShop.Cargo.DtoLayer.csproj" Id="7c919f4c-1ac0-4fd5-80a5-6892b2e074bb" />
+    <Project Path="Services/Cargo/MultiShop.Cargo.EntityLayer/MultiShop.Cargo.EntityLayer.csproj" Id="5743e512-6f6a-425d-9a88-3d49c036c53c" />
+    <Project Path="Services/Cargo/MultiShop.Cargo.WebApi/MultiShop.Cargo.WebApi.csproj" Id="fa051b85-b769-4df3-a142-c954412e961a" />
+  </Folder>
   <Folder Name="/Services/Catalog/">
     <Project Path="Services/Catalog/MultiShop.Catalog/MultiShop.Catalog.csproj" />
   </Folder>
