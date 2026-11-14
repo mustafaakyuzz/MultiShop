@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Frontends/">
+    <Project Path="Frontends/MultiShop.WebUI/MultiShop.WebUI.csproj" Id="be5ab3c9-488d-472c-90bd-7d54dc5a3c63" />
+  </Folder>
   <Folder Name="/IdentityServer/">
     <Project Path="IdentityServer/MultiShop.IdentityServer/MultiShop.IdentityServer.csproj" />
   </Folder>
@@ -8,6 +11,9 @@
     <File Path="PortNumbers.txt" />
   </Folder>
   <Folder Name="/Services/" />
+  <Folder Name="/Services/Basket/">
+    <Project Path="Services/Basket/MultiShop.Basket/MultiShop.Basket.csproj" Id="2ca43f5b-b70b-4545-96e3-dd0deb76cb5c" />
+  </Folder>
   <Folder Name="/Services/Cargo/">
     <Project Path="Services/Cargo/MultiShop.Cargo.BusinessLayer/MultiShop.Cargo.BusinessLayer.csproj" Id="cbba4b2d-2c85-49af-93d5-00f555b7b057" />
     <Project Path="Services/Cargo/MultiShop.Cargo.DataAccessLayer/MultiShop.Cargo.DataAccessLayer.csproj" Id="5c0030a1-8b52-4037-b0e6-dbea67f3c4c7" />
